@@ -1,0 +1,92 @@
+.li-bg-card {
+  min-height: 100px;
+  width: 780px;
+  background-color: #272727;
+  border-radius: 10px;
+  border-width: 0px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.jsk {
+  display: flex;
+}
+
+.company-img {
+  height: 50px;
+  width: 50px;
+}
+
+.company-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-left: 15px;
+  margin-top: -5px;
+}
+
+.star-icon {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #fbbf24;
+  font-weight: 500;
+  margin-left: 15px;
+  margin-top: -5px;
+  margin-right: -8px;
+}
+
+.star-rate {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-left: 15px;
+  margin-top: -5px;
+}
+
+.company-para {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #f1f5f9;
+  margin-right: 10px;
+}
+
+.ss {
+  margin-right: 15px;
+}
+
+.mi {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: -15px;
+}
+
+.amount {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #f1f5f9;
+  margin-right: 10px;
+  margin-top: 13px;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #f1f5f9;
+}
+
+.company-heading-1 {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.link {
+  text-decoration: none;
+}
+
+hr {
+  color: #7e858e;
+}
